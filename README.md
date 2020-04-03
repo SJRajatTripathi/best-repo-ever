@@ -2,5 +2,6 @@
 Test repository
 this is a new comment from Rajat
 
+writing second comment to check merge conflict
 
-Adding first line to check merge-conflict
+
